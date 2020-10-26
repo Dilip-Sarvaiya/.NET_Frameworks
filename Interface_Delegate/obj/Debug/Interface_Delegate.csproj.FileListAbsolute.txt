@@ -1,0 +1,7 @@
+D:\5th_sem_.NET\Interface_Delegate\bin\Debug\Interface_Delegate.exe.config
+D:\5th_sem_.NET\Interface_Delegate\bin\Debug\Interface_Delegate.exe
+D:\5th_sem_.NET\Interface_Delegate\bin\Debug\Interface_Delegate.pdb
+D:\5th_sem_.NET\Interface_Delegate\obj\Debug\Interface_Delegate.csprojAssemblyReference.cache
+D:\5th_sem_.NET\Interface_Delegate\obj\Debug\Interface_Delegate.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\Interface_Delegate\obj\Debug\Interface_Delegate.exe
+D:\5th_sem_.NET\Interface_Delegate\obj\Debug\Interface_Delegate.pdb
