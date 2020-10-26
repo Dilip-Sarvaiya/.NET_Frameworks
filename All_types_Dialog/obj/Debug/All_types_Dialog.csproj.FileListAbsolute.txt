@@ -1,0 +1,10 @@
+D:\5th_sem_.NET\All_types_Dialog\bin\Debug\All_types_Dialog.exe.config
+D:\5th_sem_.NET\All_types_Dialog\bin\Debug\All_types_Dialog.exe
+D:\5th_sem_.NET\All_types_Dialog\bin\Debug\All_types_Dialog.pdb
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.csprojAssemblyReference.cache
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.Form1.resources
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.Properties.Resources.resources
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.csproj.GenerateResource.cache
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.exe
+D:\5th_sem_.NET\All_types_Dialog\obj\Debug\All_types_Dialog.pdb
