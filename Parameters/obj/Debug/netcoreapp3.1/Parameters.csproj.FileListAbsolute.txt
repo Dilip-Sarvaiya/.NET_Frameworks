@@ -1,0 +1,13 @@
+D:\5th_sem_.NET\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+D:\5th_sem_.NET\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+D:\5th_sem_.NET\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+D:\5th_sem_.NET\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+D:\5th_sem_.NET\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+D:\5th_sem_.NET\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.csprojAssemblyReference.cache
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+D:\5th_sem_.NET\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache
