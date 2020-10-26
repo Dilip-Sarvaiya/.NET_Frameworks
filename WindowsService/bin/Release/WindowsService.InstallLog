@@ -1,0 +1,31 @@
+﻿Installing assembly 'D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe
+Rolling back assembly 'D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe
+Installing assembly 'D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe
+Installing service Dilip_First_Service...
+Service Dilip_First_Service has been successfully installed.
+Creating EventLog source Dilip_First_Service in log Application...
+Committing assembly 'D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = D:\5th_sem_.NET\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source Dilip_First_Service.
+Service Dilip_First_Service is being removed from the system...
+Service Dilip_First_Service was successfully removed from the system.

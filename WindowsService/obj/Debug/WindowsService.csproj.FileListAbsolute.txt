@@ -1,0 +1,9 @@
+D:\5th_sem_.NET\WindowsService\bin\Debug\WindowsService.exe.config
+D:\5th_sem_.NET\WindowsService\bin\Debug\WindowsService.exe
+D:\5th_sem_.NET\WindowsService\bin\Debug\WindowsService.pdb
+D:\5th_sem_.NET\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+D:\5th_sem_.NET\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+D:\5th_sem_.NET\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+D:\5th_sem_.NET\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\WindowsService\obj\Debug\WindowsService.exe
+D:\5th_sem_.NET\WindowsService\obj\Debug\WindowsService.pdb
