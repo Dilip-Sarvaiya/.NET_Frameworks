@@ -1,0 +1,15 @@
+D:\5th_sem_.NET\WPF_Second\bin\Debug\WPF_Second.exe.config
+D:\5th_sem_.NET\WPF_Second\bin\Debug\WPF_Second.exe
+D:\5th_sem_.NET\WPF_Second\bin\Debug\WPF_Second.pdb
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.csprojAssemblyReference.cache
+D:\5th_sem_.NET\WPF_Second\obj\Debug\MainWindow.g.cs
+D:\5th_sem_.NET\WPF_Second\obj\Debug\App.g.cs
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second_MarkupCompile.cache
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second_MarkupCompile.lref
+D:\5th_sem_.NET\WPF_Second\obj\Debug\MainWindow.baml
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.g.resources
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.Properties.Resources.resources
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.csproj.GenerateResource.cache
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.exe
+D:\5th_sem_.NET\WPF_Second\obj\Debug\WPF_Second.pdb
