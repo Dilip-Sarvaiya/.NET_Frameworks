@@ -1,0 +1,11 @@
+D:\5th_sem_.NET\First_form\bin\Debug\First_form.exe.config
+D:\5th_sem_.NET\First_form\bin\Debug\First_form.exe
+D:\5th_sem_.NET\First_form\bin\Debug\First_form.pdb
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.Properties.Resources.resources
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.csproj.GenerateResource.cache
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.exe
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.pdb
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.Form1.resources
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.csprojAssemblyReference.cache
+D:\5th_sem_.NET\First_form\obj\Debug\First_form.Form2.resources
