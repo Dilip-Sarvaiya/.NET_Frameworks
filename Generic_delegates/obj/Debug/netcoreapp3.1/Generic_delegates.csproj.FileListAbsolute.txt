@@ -1,0 +1,13 @@
+D:\5th_sem_.NET\Generic_delegates\bin\Debug\netcoreapp3.1\Generic_delegates.exe
+D:\5th_sem_.NET\Generic_delegates\bin\Debug\netcoreapp3.1\Generic_delegates.deps.json
+D:\5th_sem_.NET\Generic_delegates\bin\Debug\netcoreapp3.1\Generic_delegates.runtimeconfig.json
+D:\5th_sem_.NET\Generic_delegates\bin\Debug\netcoreapp3.1\Generic_delegates.runtimeconfig.dev.json
+D:\5th_sem_.NET\Generic_delegates\bin\Debug\netcoreapp3.1\Generic_delegates.dll
+D:\5th_sem_.NET\Generic_delegates\bin\Debug\netcoreapp3.1\Generic_delegates.pdb
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.AssemblyInfoInputs.cache
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.AssemblyInfo.cs
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.dll
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.pdb
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.genruntimeconfig.cache
+D:\5th_sem_.NET\Generic_delegates\obj\Debug\netcoreapp3.1\Generic_delegates.csprojAssemblyReference.cache
