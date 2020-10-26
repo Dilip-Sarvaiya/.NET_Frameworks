@@ -1,0 +1,13 @@
+D:\5th_sem_.NET\Interface_Properties\bin\Debug\netcoreapp3.1\Interface_Properties.exe
+D:\5th_sem_.NET\Interface_Properties\bin\Debug\netcoreapp3.1\Interface_Properties.deps.json
+D:\5th_sem_.NET\Interface_Properties\bin\Debug\netcoreapp3.1\Interface_Properties.runtimeconfig.json
+D:\5th_sem_.NET\Interface_Properties\bin\Debug\netcoreapp3.1\Interface_Properties.runtimeconfig.dev.json
+D:\5th_sem_.NET\Interface_Properties\bin\Debug\netcoreapp3.1\Interface_Properties.dll
+D:\5th_sem_.NET\Interface_Properties\bin\Debug\netcoreapp3.1\Interface_Properties.pdb
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.csprojAssemblyReference.cache
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.AssemblyInfoInputs.cache
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.AssemblyInfo.cs
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.dll
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.pdb
+D:\5th_sem_.NET\Interface_Properties\obj\Debug\netcoreapp3.1\Interface_Properties.genruntimeconfig.cache
