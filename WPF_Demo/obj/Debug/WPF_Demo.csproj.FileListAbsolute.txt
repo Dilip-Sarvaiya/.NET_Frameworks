@@ -1,0 +1,15 @@
+D:\5th_sem_.NET\WPF_Demo\bin\Debug\WPF_Demo.exe.config
+D:\5th_sem_.NET\WPF_Demo\bin\Debug\WPF_Demo.exe
+D:\5th_sem_.NET\WPF_Demo\bin\Debug\WPF_Demo.pdb
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.csprojAssemblyReference.cache
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\MainWindow.g.cs
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\App.g.cs
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo_MarkupCompile.cache
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo_MarkupCompile.lref
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\MainWindow.baml
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.g.resources
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.Properties.Resources.resources
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.csproj.GenerateResource.cache
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.exe
+D:\5th_sem_.NET\WPF_Demo\obj\Debug\WPF_Demo.pdb
